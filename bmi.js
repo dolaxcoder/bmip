@@ -7,7 +7,7 @@ href.addEventListener('click' , function(){
 
     if (weight == !! height == ''){
         alert('Enter your correct height and weight');
-        return;
+        
     }
 
 
